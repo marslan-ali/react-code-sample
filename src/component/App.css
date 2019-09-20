@@ -1,0 +1,12 @@
+/*
+ *  App.css
+ *  ==================================
+ *  @author  Arslan Ali
+ *  @email   marslan.ali@gmail.com
+ */
+.component-app {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 100%;
+}
